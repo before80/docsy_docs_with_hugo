@@ -2,6 +2,7 @@
 title = "使用Docsy的项目"
 linkTitle = "使用Docsy的项目"
 date = 2023-08-06T08:20:52+08:00
+type = "docs"
 description = ""
 isCJKLanguage = true
 draft = false
